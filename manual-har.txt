@@ -1,0 +1,39 @@
+MANUAL BINKY 3.10 - HARDWARE
+
+1. Modelo de processador
+2. Uso da memória
+3. Dispositivos PCI
+4. Dispositivos USB
+5. Leitura da BIOS
+6. Placa de rede
+
+1. Essa opção é indicada para usuários que desjam obter informações sobre o processador
+da máquina que está usando no momento
+	para utiliza-la basta teclar -1- e as informações serão exibidas. Tecle ENTER 
+	para retornar
+
+2. Essa opção é indicada para usuários que desejam obter informações sobre o uso da 
+memória da máquina que está usando no momento
+	Para utiliza-la basta teclar -2- e as informações serão exibidas. Tecle Enter 
+	para retornar
+
+3. Essa opção é indicada para usuários que desjam se informar dos dispositivos PCI 
+conectados a máquina no momento
+	Para utiliza-la basta teclar -3- e as informações serão exibidas. Tecle ENTER
+	para retornar
+
+4. Essa opção é indicada para usuários que desjam se informar dos dispositivos USB 
+conectados a máquina no momento
+        Para utiliza-la basta teclar -4- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+5. Essa opção é indicada para usuários que desejam obter informações sobre a BIOS da
+máquina no momento.
+	Paa utiliza-la basta teclar -5- e as informações serão exibidas. Tecle ENTER
+	para retornar
+
+6. Essa opção é indicada para usuários que desjam se informar das placas de rede
+conectados a máquina no momento
+        Para utiliza-la basta teclar -4- e o menu adicinal será exibido. Navegue
+	pelas opções utilizando o número correspondente de cada uma. Tecle ENTER
+        para retornar

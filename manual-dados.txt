@@ -1,0 +1,24 @@
+MANUAL BINKY 3.10 - Gerenciamento de dados
+
+1. Alterar um arquivo
+2. Alterar uma pasta
+3. Realizar backup
+
+1. Essa opção é indicada para usuários que desja alterar informações de um 
+arquivo alocado na máquina no momento
+        Para utiliza-la basta teclar -1- e o menu adicinal será exibido. Navegue
+	pelas opções utilizando o número correspondente de cada uma. Tecle ENTER
+        para retornar
+
+2. Essa opção é indicada para usuários que desja alterar informações de um 
+diretório alocado na máquina no momento
+        Para utiliza-la basta teclar -2- e o menu adicinal será exibido. Navegue
+	pelas opções utilizando o número correspondente de cada uma. Tecle ENTER
+        para retornar
+
+
+3. Essa opção é indicada para usuários que desja realizar um backup de dados 
+alocados na máquina no momento
+        Para utiliza-la basta teclar -3- e o menu adicinal será exibido. Navegue
+	pelas opções utilizando o número correspondente de cada uma. Tecle ENTER
+        para retornar

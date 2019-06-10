@@ -1,0 +1,34 @@
+MANUAL BINKY 3.10 - gerenciador de sistema
+
+1. Sobre espaço consumido
+2. Sobre processos
+3. Uso do processador em tempo real
+4. Visualizar versão do linux
+5. Visualizar versão do Kernel
+
+
+
+1. Essa opção é indicada para usuários que desejam obter informações sobre o espaço
+consumido na máquina que está usando no momento
+        para utiliza-la basta teclar -1- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+2. Essa opção é indicada para usuários que desejam obter informações sobre processos
+da máquina que está usando no momento
+        para utiliza-la basta teclar -2- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+3. Essa opção é indicada para usuários que desejam obter informações sobre o uso do 
+do processador da máquina que está usando no momento
+        para utiliza-la basta teclar -3- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+4. Essa opção é indicada para usuários que desejam obter informações sobre o linux
+da máquina que está usando no momento
+        para utiliza-la basta teclar -4- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+5. Essa opção é indicada para usuários que desejam obter informações sobre o kernel
+do linux da máquina que está usando no momento
+        para utiliza-la basta teclar -5- e as informações serão exibidas. Tecle ENTER
+        para retornar

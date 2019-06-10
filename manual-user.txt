@@ -1,0 +1,45 @@
+MANUAL BINKY 3.10 - Gerenciamento de usuários
+
+1. Mostrar usuários
+2. Adicionar usuário
+3. Deletar usuário
+4. Alterar informações complementares
+5. Gerenciamento de senhas
+6. Mostrar status da conta
+7. Gerenciamento de grupos
+
+1. Essa opção é indicada para usuários que desejam obter informações sobre os usuários
+presentes no sistema que está usando no momento
+        para utiliza-la basta teclar -1- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+2. Essa opção é indicada para usuários que desejam adicionar usuários ao sistema que
+está usando no momento
+        para utiliza-la basta teclar -2- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+3. Essa opção é indicada para usuários que desejam deletar um usuário presente no 
+sistema que está usando no momento
+        para utiliza-la basta teclar -3- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+4. Essa opção é indicada para usuários que desejam alterar informações de cadastro de 
+usuários do sistema que está usando no momento
+        para utiliza-la basta teclar -4- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+5. Essa opção é indicada para usuários que desejam grenciar senhas de usuários do sistema
+ que está usando no momento
+        para utiliza-la basta teclar -5-e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+6. Essa opção é indicada para usuários que desejam obter informações sobre contas de 
+usuários do sistema que está usando no momento
+        para utiliza-la basta teclar -6- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+7. Essa opção é indicada para usuários que desejam obter informações sobre grupos do
+sistema que está usando no momento
+        para utiliza-la basta teclar -7- e as informações serão exibidas. Tecle ENTER
+        para retornar
+

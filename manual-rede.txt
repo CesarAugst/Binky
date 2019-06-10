@@ -1,0 +1,21 @@
+MANUAL BINKY 3.10 - serviços de rede
+
+1. Realizar acesso remoto
+2. Realizar teste de host
+3. Backup remoto
+
+
+1. Essa opção é indicada para usuários que desejam obter um acesso remoto a outra
+máquina conectada a mesma rede
+        para utiliza-la basta teclar -1- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+2. Essa opção é indicada para usuários que desejam realizar um teste de host com a placa
+de rede ativa da máquina que está usando no momento
+        para utiliza-la basta teclar -2- e as informações serão exibidas. Tecle ENTER
+        para retornar
+
+3. Essa opção é indicada para usuários que desejam ralizar um backup utilizando outras
+máquinas conectadas a mesma rede
+        para utiliza-la basta teclar -3- e as informações serão exibidas. Tecle ENTER
+        para retornar
